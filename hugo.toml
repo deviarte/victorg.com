@@ -1,4 +1,4 @@
 baseURL = 'https://victorg.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Victor Gutierrez'
 theme = "paper"
